@@ -13,18 +13,18 @@ the values passed to the macro template AREA(l, b) will also be replaced in the 
  Therefore AREA(10, 5) will be equal to 10*5.*/
 //#pragma startup function1 // THis feature will not support in GCC
 
-void function1()
-{
-   cout<<"Function 1\n";
-}
+// void function1()
+// {
+//    cout<<"Function 1\n";
+// }
 
-void function2()
-{
-    cout<<"Function 2";
-}
+// void function2()
+// {
+//     cout<<"Function 2";
+// }
 
-void __attribute__((constructor)) function1(); 
-void __attribute__((destructor)) function2();
+// void __attribute__((constructor)) function1(); 
+// void __attribute__((destructor)) function2();
 
 int main()
 {
