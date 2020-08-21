@@ -1,0 +1,8 @@
+
+We know that computer uses 2’s complement to represent data. For example if we have 1 byte
+(We can use char and use %d as format specifier to view it as decimal), we can represent -128
+ to 127. If we add 1 to 127 we will get -128. Thats because 127 is 01111111 in binary.
+  And if we add 1 into 01111111 we will get 10000000. 10000000 is -128 in 2’s complement form.
+
+Same will happen if we use unsigned integers. 255 is 11111111 when we add 1 to 11111111 we will get 
+100000000. But we are using only first 8 bits, so that’s 0. Hence we get 0 after adding 1 in 255.
