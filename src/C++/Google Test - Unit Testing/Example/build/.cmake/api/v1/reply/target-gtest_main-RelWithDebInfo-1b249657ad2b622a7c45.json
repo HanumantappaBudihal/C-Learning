@@ -12,7 +12,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "lib/Release/gtest_main.lib"
+			"path" : "lib/RelWithDebInfo/gtest_main.lib"
 		}
 	],
 	"backtrace" : 3,
@@ -88,7 +88,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "/DWIN32 /D_WINDOWS /W4 /GR  -MT /O2 /Ob2 /DNDEBUG  "
+					"fragment" : "/DWIN32 /D_WINDOWS /W4 /GR  -MT /Zi /O2 /Ob1 /DNDEBUG  "
 				},
 				{
 					"fragment" : "-GS -W4 -WX -wd4251 -wd4275 -nologo -J -Zi -D_UNICODE -DUNICODE -DWIN32 -D_WIN32 -DSTRICT -DWIN32_LEAN_AND_MEAN -wd4702 -DGTEST_HAS_PTHREAD=0 -EHsc -D_HAS_EXCEPTIONS=1 "
@@ -117,11 +117,11 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 6,
 			"id" : "gtest::@f95b5c00bd49b3b4698d"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "gtest_main::@f95b5c00bd49b3b4698d",

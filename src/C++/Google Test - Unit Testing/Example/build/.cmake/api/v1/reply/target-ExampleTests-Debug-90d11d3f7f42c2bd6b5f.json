@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "test/Release/ExampleTests.exe"
+			"path" : "test/Debug/ExampleTests.exe"
 		},
 		{
-			"path" : "test/Release/ExampleTests.pdb"
+			"path" : "test/Debug/ExampleTests.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -55,7 +55,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG  "
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1  "
 				}
 			],
 			"includes" : 
@@ -81,19 +81,19 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+			"backtrace" : 2,
+			"id" : "Example::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "Example::@6890427a1f51a3e7e1df"
+			"id" : "gtest::@f95b5c00bd49b3b4698d"
 		},
 		{
 			"backtrace" : 2,
 			"id" : "gtest_main::@f95b5c00bd49b3b4698d"
 		},
 		{
-			"backtrace" : 2,
-			"id" : "gtest::@f95b5c00bd49b3b4698d"
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "ExampleTests::@36f028580bb02cc8272a",
@@ -102,26 +102,26 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG",
+				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1",
 				"role" : "flags"
 			},
 			{
-				"fragment" : "/machine:X86 /INCREMENTAL:NO /subsystem:console",
+				"fragment" : "/machine:X86 /debug /INCREMENTAL /subsystem:console",
 				"role" : "flags"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "..\\lib\\Release\\gtest_main.lib",
+				"fragment" : "..\\lib\\Debug\\gtest_maind.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "..\\Release\\Example.lib",
+				"fragment" : "..\\Debug\\Example.lib",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "..\\lib\\Release\\gtest.lib",
+				"fragment" : "..\\lib\\Debug\\gtestd.lib",
 				"role" : "libraries"
 			},
 			{

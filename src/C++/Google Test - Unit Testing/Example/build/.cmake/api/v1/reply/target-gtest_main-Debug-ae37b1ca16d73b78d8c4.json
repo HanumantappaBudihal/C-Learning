@@ -117,11 +117,11 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 6,
 			"id" : "gtest::@f95b5c00bd49b3b4698d"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "gtest_main::@f95b5c00bd49b3b4698d",
