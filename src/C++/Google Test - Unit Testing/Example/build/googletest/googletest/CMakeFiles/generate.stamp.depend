@@ -1,0 +1,16 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.17/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.17/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.17/Modules/CheckCSourceCompiles.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.17/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.17/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.17/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.17/Modules/FindPythonInterp.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.17/Modules/FindThreads.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.17/Modules/WriteBasicConfigVersionFile.cmake
+D:/4.GitHub/HanumantappaBudihal/C-plus-plus-Learning/src/C++/Google Test - Unit Testing/Example/googletest/googletest/CMakeLists.txt
+D:/4.GitHub/HanumantappaBudihal/C-plus-plus-Learning/src/C++/Google Test - Unit Testing/Example/googletest/googletest/cmake/Config.cmake.in
+D:/4.GitHub/HanumantappaBudihal/C-plus-plus-Learning/src/C++/Google Test - Unit Testing/Example/googletest/googletest/cmake/gtest.pc.in
+D:/4.GitHub/HanumantappaBudihal/C-plus-plus-Learning/src/C++/Google Test - Unit Testing/Example/googletest/googletest/cmake/gtest_main.pc.in
+D:/4.GitHub/HanumantappaBudihal/C-plus-plus-Learning/src/C++/Google Test - Unit Testing/Example/googletest/googletest/cmake/internal_utils.cmake

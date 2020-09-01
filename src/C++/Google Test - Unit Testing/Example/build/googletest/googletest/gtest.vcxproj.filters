@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\4.GitHub\HanumantappaBudihal\C-plus-plus-Learning\src\C++\Google Test - Unit Testing\Example\googletest\googletest\src\gtest-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\4.GitHub\HanumantappaBudihal\C-plus-plus-Learning\src\C++\Google Test - Unit Testing\Example\googletest\googletest\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{99CA3808-28FE-3924-9040-CFFE064155CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

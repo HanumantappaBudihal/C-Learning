@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\4.GitHub\HanumantappaBudihal\C-plus-plus-Learning\src\C++\Google Test - Unit Testing\Example\build\CMakeFiles\a193c0e569b8d254caca827f89d10384\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{38533F4D-B943-31E3-964C-5BCD0009B6D7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
